@@ -3,6 +3,8 @@ FaceFusion
 
 > Next generation face swapper and enhancer.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xw8jURBcWLSoib2yz0-MwZsnmVJdiO_q?usp=sharing)
+
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
